@@ -1,0 +1,14 @@
+# HTTrack: logs e caches podem conter dados sensíveis
+hts-log.txt
+hts-cache/
+cookies.txt
+
+# Sistema operativo e editores
+Thumbs.db
+.DS_Store
+.vscode/
+
+# Segredos comuns
+.env
+.env.*
+!.env.example
